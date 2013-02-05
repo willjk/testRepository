@@ -1,0 +1,34 @@
+LogIn Page
+
+referrer = session.item for help page
+userFirst = first name
+UserFullName = users full name
+Supervisor = persons current login account name
+UserEmail = users email
+userEmpID = users employee ID
+loginFailure = current login failed attempts
+MyFormID = 
+ClosedCases = if this user is approver
+ApproveEmployeeID = 
+HRApproveEmployeeID
+HRApproveEmployeeID2
+
+
+
+
+formLayout Page
+
+
+
+currentApprover = sets what stage the approver is on
+formLoad = if youre an approver you can load the form
+formApprovalStage = current form for approval
+LANUser = gets first approver for email
+STUDENTuser = gets 2nd approver
+Financialuser = gets 3rd approver
+IDEASuser = gets 4th approver
+
+
+Admin
+
+approverToRemove = removes approver from list of approvers
